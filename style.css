@@ -88,7 +88,7 @@
   #principal{
 margin-top: 50px;
 }
-@media (max-width: 768px) {
+@media (max-width: 968px) {
     header {
       padding: 10px;
     }
